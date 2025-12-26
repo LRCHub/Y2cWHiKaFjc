@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Do for Love",
+  "base_artist": "2Pac",
+  "createdAt": "2025-12-26T05:17:39.348576Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What You Won't Do for Love",
+      "artist": "Go West",
+      "has_synced": true,
+      "path": "select/01_What_You_Won't_Do_for_Love_Go_West.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What You Won't Do for Love",
+      "artist": "Bobby Caldwell",
+      "has_synced": true,
+      "path": "select/02_What_You_Won't_Do_for_Love_Bobby_Caldwell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Things We Do For Love",
+      "artist": "The Darling Buds",
+      "has_synced": false,
+      "path": "select/03_Things_We_Do_For_Love_The_Darling_Buds.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What You Won't Do For Love",
+      "artist": "Jessie Ware",
+      "has_synced": true,
+      "path": "select/04_What_You_Won't_Do_For_Love_Jessie_Ware.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What You Won't Do for Love",
+      "artist": "Junior Boys",
+      "has_synced": true,
+      "path": "select/05_What_You_Won't_Do_for_Love_Junior_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Things We Do For Love",
+      "artist": "10cc",
+      "has_synced": true,
+      "path": "select/06_The_Things_We_Do_For_Love_10cc.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Things We Do For Love",
+      "artist": "10cc",
+      "has_synced": true,
+      "path": "select/07_The_Things_We_Do_For_Love_10cc.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Things We Do For Love",
+      "artist": "10cc",
+      "has_synced": true,
+      "path": "select/08_The_Things_We_Do_For_Love_10cc.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What You Won't Do for Love",
+      "artist": "Bobby Caldwell",
+      "has_synced": true,
+      "path": "select/09_What_You_Won't_Do_for_Love_Bobby_Caldwell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What You Won't Do for Love",
+      "artist": "Bobby Caldwell",
+      "has_synced": true,
+      "path": "select/10_What_You_Won't_Do_for_Love_Bobby_Caldwell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What You Won't Do for Love (20th Anniversary Edition)",
+      "artist": "Bobby Caldwell",
+      "has_synced": false,
+      "path": "select/11_What_You_Won't_Do_for_Love_(20th_Anniversary_Edition)_Bobby_Caldwell.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What You Won't Do For Love",
+      "artist": "Bobby Caldwell",
+      "has_synced": true,
+      "path": "select/12_What_You_Won't_Do_For_Love_Bobby_Caldwell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Do For Love",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/13_Do_For_Love_2Pac.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do For Love",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/pl_01_Do_For_Love_2Pac.txt"
+    }
+  ]
+}
